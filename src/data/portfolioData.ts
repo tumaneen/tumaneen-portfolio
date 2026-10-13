@@ -433,6 +433,8 @@ export const DESIGNER_MANIFESTO = {
     linkedinUrl: 'https://linkedin.com/in/fatimahghani',
     behance: 'behance.net/fatimahghani',
     behanceUrl: 'https://behance.net/fatimahghani',
+    instagram: 'instagram.com/fatimahghani',
+    instagramUrl: 'https://www.instagram.com/p/DePZvlYiiWV/?utm_source=ig_web_copy_link',
   },
   bio: 'I am Fatimah Ghani—a brand identity and packaging designer blending the analytical precision of Computer Science with an unwavering dedication to visual craft. As an independent designer, I build bespoke brand identities, tactile packaging architecture, and expressive typographic systems that leave a lasting imprint.',
   storyParagraphs: [
